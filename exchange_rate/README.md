@@ -1,6 +1,7 @@
 ## Exchange Rate
 
 Select countries to get the exchange rate for a specific amount
+View: https://htmlpreview.github.io/github.com/arjacent/JSvanilla/edit/main/exchange_rate/main.html
 
 ## Project Specifications
 
