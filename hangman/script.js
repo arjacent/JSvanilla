@@ -47,11 +47,12 @@ function updateWrongLettersEl() {
   // Display parts of man
   figureParts.forEach((part, index) => {
     const errors = wrongLetters.length;
+    console.log(part);
 
     if (index < errors) {
-      part.style.dispaly = 'block';
+      part.style.display = 'block';
     } else {
-      part.style.dispaly = 'none';
+      part.style.display = 'none';
     }
   });
 
