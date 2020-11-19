@@ -1,6 +1,6 @@
 ## New Year Countdown
 
-Landing page that counts down from the current date to the next new year
+Landing page that counts down from the current date to the next new year, see live version:  https://htmlpreview.github.io/?https://github.com/arjacent/JSvanilla/blob/main/new_year_countdown/index.html
 
 ## Project Specifications
 
